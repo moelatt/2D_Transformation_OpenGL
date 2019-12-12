@@ -1,19 +1,26 @@
+![alt text](image.png)
+
+
 Window size: 
 	width = 550
 	height = 550
+			
+			
 			User-Guide
  
 	step(1): enter ==> " make " <== to compile
 
 	step(2): enter ==> " ./a.out " <== to run the program
 
-	step(3): type file name ==> " test_scene " <== to get data from file 
+	step(3): type file name ==> " input.txt " <== to get data from file 
 		 (you can use your own data file if you want)
 
 	step(4): Choose Bresenhem or DDA Algorithm: Enter 1 or 2. 
 
 	step(5): Right click anywhere  on the viewport window to see menu 
 		 (All the function work on any selected polygon object.)
+		 
+		 
 
 On Menu: you will see 4 categories such as: Rasterization, 
 					    Transformations, 
@@ -51,4 +58,5 @@ Clipping: It can also manipulate specific object polygon. In order to clip,
 Continue: restart to the procedure.
 
 Exit: It has exit-program sub menu. When you click, it will exit immediately. Any change will be saved in the original file the data is read in. Thanks
+
 
