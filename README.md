@@ -1,4 +1,4 @@
-A+ Project
+(Grade A+) Project
 
 ![alt text](image.png)
 
